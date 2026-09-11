@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: arcticons
+Source: https://github.com/Arcticons-Team/Arcticons.git
+
+Files: *
+Copyright: Upstream authors
+License: CC-BY-SA-4.0
+
+Files: debian/*
+Copyright: 2026 Lenik <arcticons@bodz.net>
+License: CC-BY-SA-4.0
