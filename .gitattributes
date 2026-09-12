@@ -1,1 +1,0 @@
-faiss.index filter=lfs diff=lfs merge=lfs -text

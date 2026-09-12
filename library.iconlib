@@ -8,4 +8,5 @@ homepage=https://arcticons.com/
 description=Arcticons adaptive icon pack
 package=icons-arcticons
 icons_root=orig/icons
-faiss_index=/usr/share/icons-arcticons
+faiss_index=faiss.1,faiss.2,faiss.3,faiss.4,faiss.5,faiss.6,faiss.7,faiss.8,faiss.9,faiss.10,faiss.11,faiss.12
+faiss_shard_size=10M
