@@ -1,4 +1,4 @@
-# Installed by icons-arcticons — discovered as /usr/share/iconlibutils/library/arcticons/
+# Installed by icons-arcticons as /usr/share/iconlibutils/library/arcticons
 name=arcticons
 type=auto
 path=/usr/share/icons-arcticons
@@ -7,3 +7,5 @@ license=CC-BY-SA-4.0
 homepage=https://arcticons.com/
 description=Arcticons adaptive icon pack
 package=icons-arcticons
+icons_root=orig/icons
+faiss_index=/usr/share/icons-arcticons

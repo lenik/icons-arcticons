@@ -1,12 +1,12 @@
 Source: icons-arcticons
 Section: graphics
 Priority: optional
-Maintainer: Lenik <icons-arcticons@bodz.net>
+Maintainer: Lenik (谢继雷) <lenik@bodz.net>
 Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils
 Standards-Version: 4.6.2
 Homepage: https://arcticons.com/
-Vcs-Browser: https://github.com/lenik/pkg-icons-arcticons
-Vcs-Git: https://github.com/lenik/pkg-icons-arcticons.git
+Vcs-Browser: https://github.com/lenik/icons-arcticons
+Vcs-Git: https://github.com/lenik/icons-arcticons.git
 Rules-Requires-Root: no
 
 Package: icons-arcticons
@@ -17,4 +17,4 @@ Description: Arcticons adaptive icon pack
  Arcticons adaptive icon pack
  .
  Provides icon assets under /usr/share/icons-arcticons, a preview index, and a
- launcher `icons-arcticons` (`iconlibutils -l arcticons`).
+ launcher `icons-arcticons` (`iconlib -l arcticons`).
